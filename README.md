@@ -20,3 +20,5 @@
 | 2023-07-06 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/a0c390a8-9ff4-4b84-be86-0856435a8e1b) | 2주,1달 |
 | 2023-07-20 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5cd4db5b-9e69-41ba-b8f3-01ba5ee47d44) | 2주 |
 | 2023-08-03 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/3c626384-3437-49b1-ab72-966c0dcb014c) | 2주,1달 |
+| 2023-08-17 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/fc1a2180-994e-4300-9751-37970de69cd0) | 2주 |
+| 2023-08-31 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/138727b8-5fcf-488d-a815-9b56b64f8048) | 2주,1달 |
