@@ -27,7 +27,7 @@
 | 2023-09-28 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/2e7660f4-f930-4ee0-87c2-857a700ffabe) <br/>  ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5d9932e0-0e2e-4a4b-90d2-f821b8427c7e)  | 2주,1달 |
 | 2023-10-12 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/2dc89425-83f0-459b-87c9-fdf53560d7c2) <br/>  ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/3ac869fe-bed2-4afa-b149-9a188535adf3)  | 2주 |
 | 2023-10-26 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/0baae812-5d81-485c-84fc-01381c0321f7) <br/>  ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/e27ec5f8-097a-497c-9815-de2bb9d6eb6f) | 2주,1달 |
-| 2023-11-09 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/1856717d-0a62-46ac-9b19-0ae61e762157) | 2주 |
+| 2023-11-09 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/1856717d-0a62-46ac-9b19-0ae61e762157) <br/>  ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/733854d6-a1c0-42fb-8d43-547a6b01cf31) | 2주 |
 | 2023-11-23 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/3011499a-81f3-4a5f-8ffc-2fa784c9d86c) | 2주,1달 |
 | 2023-12-07 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/17e6f6f0-1acc-43b4-af86-8980f229ac5d) | 2주 |
 | 2023-12-21 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/c1495ba7-abc9-4039-99cc-aae5240f9f5a) | 2주,1달 |
