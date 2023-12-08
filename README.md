@@ -4,7 +4,7 @@
 > 태환 : https://taehwanis.github.io/<br/>
 > 영남 : https://github.com/nuobasic/Algorithm_Study<br/>
 > 민재 : https://github.com/alswo1212/CNF_codingTest_sturdy<br/>
-> 우형 : https://github.com/woohyung0511<br/>
+> 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4<br/>
 > 혜원 : https://github.com/reeHW
 
 1달조<br/>
