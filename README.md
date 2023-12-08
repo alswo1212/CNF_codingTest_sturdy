@@ -4,6 +4,7 @@
 > 태환 : https://taehwanis.github.io/<br/>
 > 영남 : https://github.com/nuobasic/Algorithm_Study<br/>
 > 민재 : https://github.com/alswo1212/CNF_codingTest_sturdy<br/>
+> 우형 : https://github.com/woohyung0511<>
 
 1달조<br/>
 > 시현 : https://github.com/sihyun5250/sihyun5250<br/>
@@ -11,7 +12,7 @@
 > 소영 : https://github.com/souo0605A/2023CNF_AlgorithmStudy<br/>
 > 승준 : https://github.com/seungjun0502/codingStudy<br/>
 > 현정 : https://github.com/annie9434/codingTest<br/>
-> 원겸 : https://github.com/kly9604
+> 원겸 : https://github.com/kly9604<br/>
 
 
 | 날짜 | 문제 | 참여 조 |
