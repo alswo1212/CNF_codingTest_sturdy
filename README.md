@@ -19,7 +19,7 @@
 > 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4<br/>
 > 혜원 : https://github.com/reeHW<br/>
 > 승준 : https://github.com/seungjun0502/codingStudy<br/>
-> 현정 : https://github.com/annie9434/codingTest<br/>
+> 현정 : https://github.com/annie9434/CNFCodingTest<br/>
 
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
