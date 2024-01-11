@@ -17,7 +17,7 @@
 > 태환 : https://taehwanis.github.io/<br/>
 > 민재 : https://github.com/alswo1212/CNF_codingTest_sturdy<br/>
 > 우형 : https://github.com/woohyung0511/CNF_Coding_Study<br/>
-> 혜원 : https://github.com/reeHW<br/>
+> 혜원 : https://github.com/reeHW/algorithm<br/>
 > 승준 : https://github.com/seungjun0502/codingStudy<br/>
 > 현정 : https://github.com/annie9434/CNFCodingTest<br/>
 
