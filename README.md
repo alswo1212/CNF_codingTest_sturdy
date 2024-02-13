@@ -13,7 +13,7 @@
 + 추가 문제 풀어서 낼 시(방장이 정함) 스택 하나 깔 수 있음(다음 회차 전까지)
 
 
-> 시현 : https://github.com/sihyun5250/sihyun5250<br/>
+> <del>시현 : https://github.com/sihyun5250/sihyun5250</del><br/>
 > 예진 : https://github.com/yezini/programmers<br/>
 > 태환 : https://taehwanis.github.io/<br/>
 > 민재 : https://github.com/alswo1212/CNF_codingTest_sturdy<br/>
@@ -21,6 +21,7 @@
 > 혜원 : https://github.com/reeHW/algorithm<br/>
 > 승준 : https://github.com/seungjun0502/codingStudy<br/>
 > 현정 : https://github.com/annie9434/CNFCodingTest<br/>
+> 재우 : https://github.com/Ajaewoo<br/>
 
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
@@ -41,8 +42,8 @@
 | 2023-12-07 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/17e6f6f0-1acc-43b4-af86-8980f229ac5d) <br/> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/12acd07d-92a9-446d-8e11-ef42e54bf1db) | 2주 |
 | 2023-12-21 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/c1495ba7-abc9-4039-99cc-aae5240f9f5a) <br/> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/1ca23770-c3c5-44e0-a027-d03a444233d3) | 2주,1달 |
 | 2023-01-11 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ed0ada5d-d2ab-4f5b-9977-4cc45c8f4f82) <br/> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/533c010b-fd13-499d-9801-fcaeec0aad3e) |  |
-| 2023-01-24 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/73cd88bb-de5b-4093-b879-35eacc9760b1) <br/> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/36893cab-a3ad-4974-83b7-2d956075f5d4) | 시현(124나라의 숫자) |
-| 2023-02-08 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5a39b4f6-0994-4493-8e88-caa645de4ed2) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/6d8ff430-90eb-4f25-890c-449a90152226) | 시현 |
+| 2023-01-24 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/73cd88bb-de5b-4093-b879-35eacc9760b1) <br/> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/36893cab-a3ad-4974-83b7-2d956075f5d4) | <del>시현(124나라의 숫자)</del> |
+| 2023-02-08 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5a39b4f6-0994-4493-8e88-caa645de4ed2) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/6d8ff430-90eb-4f25-890c-449a90152226) | <del>시현</del> |
 | 2023-02-22 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/f5aa3189-0cd2-4a43-b11b-982ea7daa672) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/a66e5138-bbcd-473c-995b-47f3f1ae0fed) |  |
 | 2023-03-07 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ed626c13-5f43-4232-9315-a4f80040d041) |  |
 
