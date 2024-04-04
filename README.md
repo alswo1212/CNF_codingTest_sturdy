@@ -48,5 +48,5 @@
 | 2024-03-07 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ed626c13-5f43-4232-9315-a4f80040d041) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/216293df-18c4-4b9d-bcdd-d73c73aa22d5) |  |
 | 2024-03-21 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/e6ec5000-a379-49a6-ad3d-83de37db2985) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/99b1d3df-034a-40e9-ba72-ed35537a84d3) |  |
 | 2024-04-04 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/9632ac99-5601-4ac6-9a41-f58cf3b38937) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/93bfb770-ed75-4069-a22c-0eb709702308) |  |
-
+| 2024-04-18 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/b6265c10-c613-4133-a34c-f091edf1ecb5) <br>  |  |
 
